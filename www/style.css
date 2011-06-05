@@ -1,0 +1,36 @@
+* {
+	font-family: arial, helvetica;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#patient_list {
+	width: 20%;
+	height: 100%;
+	overflow: scroll;
+}
+
+#patient_info, #patient_list, #basic_info {
+	float: left;
+}
+
+img {
+	border: 1px solid #000;
+	float: left;
+}
+
+#wound_details {
+	clear: both;
+}
+
+.wrapper {
+	margin-bottom: 5%;
+	padding: 5% 0;
+
+}
+
+#dates {
+	margin-bottom: 5%;
+}
