@@ -10,7 +10,7 @@
 	</div>
 </div>
 
-<img src="" alt="wound image" />
+<img src="<?=base_url()?>Wound.jpg" alt="wound image" />
 <div id="basic_info" class="wrapper">
 	<div class="field">
 		<span class="label">ID: </span>
